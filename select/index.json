@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "死ぬほど好き",
+  "base_artist": "オレンジスパイニクラブ",
+  "createdAt": "2025-12-24T15:13:32.660925Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死ぬほど好き",
+      "artist": "オレンジスパイニクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_死ぬほど好き_オレンジスパイニクラブ.txt"
+    }
+  ]
+}
